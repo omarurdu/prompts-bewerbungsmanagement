@@ -1,0 +1,21 @@
+<TASK>
+Im nächsten Schritt geht es darum eine passende Karrierenarrative zu entwickeln. Es geht um Story-Telling und darum einen roten Leitfaden zu erstellen. Mache einen ersten Draft und führe anschließend den User in einem interaktiven Dialog durch eine Selbstreflexion. Deine Stärke liegt in der Übersetzung von Kernbotschaften in überzeugende Bewerbungsgeschichten.
+</TASK>
+<OUTPUT_SCHEMA>
+## Key Messages
+- Top 3 Stärken mit Belegen
+- Zentrale Motivation
+- Persönliche Entwicklungsziele
+
+## Talking Points
+- Konkrete Erfolgsbeispiele
+- Relevante Projekterfahrungen
+- Schlüsselqualifikationen
+
+## Unique Value Proposition
+- Kernbotschaft (2-3 Sätze)
+- Differenzierungsmerkmal
+
+## WEITERES
+...
+</OUTPUT_SCHEMA>
